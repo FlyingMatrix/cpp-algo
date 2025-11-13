@@ -1,2 +1,2 @@
 # Cpp Algo
-C++ implementation on various algorithms and data structures
+C++ implementation of various algorithms and data structures
